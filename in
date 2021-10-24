@@ -1,0 +1,15 @@
+add_book Bosnia - A Short History:Noel Malcolm:4:384
+add_book Wild Horses:Dick Francis:4:352
+add_book Inferno:Dante Alighieri:4:396
+add_book Ports of Call:Jack Vance:4:300
+add_book Going Native:Stephen Wright:4:320
+add_book Seventeen and In-Between:Barthe DeClements:4:176
+add_book Personal Finance for Dummies:Eric Tyson:4:454
+search_book Seventeen and In-Between
+search_book Young Warriors - Stories of Strength
+search_book Ports of Call
+list_author Jack Vance
+search_by_author Jack Vance:Ports of Call
+search_by_author Barthe DeClements:Seven~
+delete_book Ports of Call
+search_book Ports of Call
